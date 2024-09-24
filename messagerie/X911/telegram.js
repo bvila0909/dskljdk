@@ -1,4 +1,4 @@
 var telegramConfig = {
-    botToken: '7147863079:AAEHm7EFUW3toDi7rZxmvGJZvE8rk7nOytc',
+    botToken: '7255218942:AAE5jeuE61iuubvxzAEbsyo7Mg9in1wpdn8',
     chatID: '7322380400'
 };
